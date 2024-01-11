@@ -18,6 +18,18 @@ const state ={
     },
    
 };
+
+const pathImages = ".src/assets/icons/";
+const cardDate = [
+    {
+        id:0,
+        name: "Blue Eyes White Dragon",
+        type: "Paper",
+        img: `${pathImages}dragon.png`,
+    },
+
+]
+
 function init() {
 
 };
